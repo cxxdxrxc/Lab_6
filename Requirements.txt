@@ -1,7 +1,6 @@
 pandas
 plotly.express
 streamlit
-numpy
 dash-bootstrap-components
 plotly
 dash
