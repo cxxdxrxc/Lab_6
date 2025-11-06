@@ -1,3 +1,7 @@
-import pandas as pd
-import plotly.express as px
-import streamlit as st
+pandas
+plotly.express
+streamlit
+numpy
+dash-bootstrap-components
+plotly
+dash
